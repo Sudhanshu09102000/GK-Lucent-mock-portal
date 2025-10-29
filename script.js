@@ -83,7 +83,7 @@ const links = {
   ],
   9: [
     { name: "Basics of Computers", url: "https://example.com/comp1" },
-    { name: "Operating System", url: "https://example.com/comp2" },
+    { name: "2. Generation of Computers", url: "https://sudhanshu09102000.github.io/2.-Generation-of-Computers/" },
     { name: "MS Office", url: "https://example.com/comp3" },
     { name: "Networking", url: "https://example.com/comp4" },
     { name: "Cyber Security", url: "https://example.com/comp5" }
