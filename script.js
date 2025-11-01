@@ -87,6 +87,7 @@ const links = {
     { name: "3. Computer Hardware and Software", url: "https://sudhanshu09102000.github.io/3.-Computer-Hardware-and-Software/" },
     { name: "4. Computer Memory", url: "https://sudhanshu09102000.github.io/4.-Computer-Memory/" },
     { name: "5. Memory unit", url: "https://sudhanshu09102000.github.io/5.-Memory-unit/" },
+    { name: "6. Types of Computert", url: "https://sudhanshu09102000.github.io/6.-Types-of-Computer/" },
   ]
 };
 
