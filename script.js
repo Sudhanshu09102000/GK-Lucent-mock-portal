@@ -86,7 +86,7 @@ const links = {
     { name: "2. Generation of Computers", url: "https://sudhanshu09102000.github.io/2.-Generation-of-Computers/" },
     { name: "3. Computer Hardware and Software", url: "https://sudhanshu09102000.github.io/3.-Computer-Hardware-and-Software/" },
     { name: "4. Computer Memory", url: "https://sudhanshu09102000.github.io/4.-Computer-Memory/" },
-    { name: "5. Memory unit", url: "https://sudhanshu09102000.github.io/5.-Memory-unit/" }
+    { name: "5. Memory unit", url: "https://sudhanshu09102000.github.io/5.-Memory-unit/" },
   ]
 };
 
