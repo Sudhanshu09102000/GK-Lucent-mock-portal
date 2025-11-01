@@ -84,8 +84,8 @@ const links = {
   9: [
     { name: "1. Introduction of Computer", url: "https://sudhanshu09102000.github.io/1.-Introduction-of-Computer/" },
     { name: "2. Generation of Computers", url: "https://sudhanshu09102000.github.io/2.-Generation-of-Computers/" },
-    { name: "MS Office", url: "https://example.com/comp3" },
-    { name: "Networking", url: "https://example.com/comp4" },
+    { name: "3. Computer Hardware and Software", url: "https://sudhanshu09102000.github.io/3.-Computer-Hardware-and-Software/" },
+    { name: "4. Computer Memory", url: "https://sudhanshu09102000.github.io/4.-Computer-Memory/" },
     { name: "Cyber Security", url: "https://example.com/comp5" }
   ]
 };
